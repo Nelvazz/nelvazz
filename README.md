@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning 
+- 💬 Ask me about anything !
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I don't drink coffee as a developer.
+
 <!--
 **Nelvazz/nelvazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
