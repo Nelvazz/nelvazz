@@ -4,7 +4,7 @@
 - 💬 Ask me about anything !
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't drink coffee as a developer.
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
 <!--
 **Nelvazz/nelvazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
