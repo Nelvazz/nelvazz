@@ -14,8 +14,10 @@ The following NEW packages will be installed:
   fullstack-dev cybersecurity
 0 upgraded, 3 newly installed, 0 to remove, and 1 not upgraded
 Do you want to continue ? [Y/n]
-> 
+>
+
+$\textsf{\color{#f5750e}{hey}}$
 ```
 
 
-$\textsf{\color{#f5750e}{hey}}$
+
