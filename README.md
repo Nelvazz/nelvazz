@@ -1,7 +1,7 @@
 ```coffeescript
 > sudo apt install nelvazz
 Reading package lists... Done
-Building dependency tree
+Building dependency tree... Done
 Reading state information... Done
 The following package was automatically installed and is no longer required:
   - coffee pianist japan videogames photography
